@@ -65,7 +65,7 @@ export function Splash() {
         </header>
         <main className="flex-1 px-8 pt-8 pb-16 lg:px-16 lg:pt-16 lg:pb-32">
           <section className="space-y-6 lg:space-y-8">
-            <h1 className="text-4xl font-bold lg:text-6xl">Reviving Sicily's Abandoned Lands</h1>
+            <h1 className="text-4xl font-bold lg:text-6xl">Reviving Sicily&apos;s Abandoned Lands</h1>
             <p className="text-lg text-[#FAF0E6] lg:text-xl">
               Greencanto is a social impact foundation dedicated to developing agrivoltaics projects in Sicily,
               combating land abandonment and creating sustainable communities.
@@ -90,7 +90,7 @@ export function Splash() {
           <section className="mt-16 space-y-6 lg:mt-24 lg:space-y-8">
             <h2 className="text-3xl font-bold lg:text-4xl">Our Mission</h2>
             <p className="text-lg text-[#FAF0E6] lg:text-xl">
-              Greencanto's mission is to revive Sicily's abandoned lands through innovative agrivoltaics projects,
+              Greencanto&apos;s mission is to revive Sicily&apos;s abandoned lands through innovative agrivoltaics projects,
               creating sustainable communities and combating land abandonment.
             </p>
             <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
