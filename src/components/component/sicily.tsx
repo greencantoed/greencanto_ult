@@ -113,7 +113,7 @@ export function sicily() {
         </header>
         <main className="flex-1 px-8 pt-24 pb-32 lg:px-16 lg:pt-32 lg:pb-48">
           <section id="home" className="space-y-8 lg:space-y-12">
-            <h1 className="text-4xl font-bold lg:text-6xl">Reviving Sicily's Abandoned Lands</h1>
+            <h1 className="text-4xl font-bold lg:text-6xl">Reviving Sicily&apos;s Abandoned Lands</h1>
             <p className="text-lg text-[#FAF0E6] lg:text-xl">
               Greencanto is a social impact foundation dedicated to developing agrivoltaics projects in Sicily,
               combating land abandonment and creating sustainable communities.
@@ -139,8 +139,8 @@ export function sicily() {
             <h2 className="text-3xl font-bold lg:text-4xl">Our Mission</h2>
             <p className="text-lg text-[#FAF0E6] lg:text-xl">
               La nostra missione è chiara: rigenerare terreni abbandonati e farli rifiorire grazie a investimenti
-              sostenibili. Offriamo agli utenti l'opportunità di acquistare quote di aziende agricole, promuovendo
-              un'agricoltura innovativa e sostenibile. Parallelamente, sosteniamo progetti di riqualificazione
+              sostenibili. Offriamo agli utenti l&apos;opportunità di acquistare quote di aziende agricole, promuovendo
+              un&apos;agricoltura innovativa e sostenibile. Parallelamente, sosteniamo progetti di riqualificazione
               ambientale, con un focus speciale sulla Sicilia.
             </p>
             <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
@@ -180,7 +180,7 @@ export function sicily() {
           <section id="join" className="mt-32 space-y-8 lg:mt-48 lg:space-y-12">
             <h2 className="text-3xl font-bold lg:text-4xl">Join us now!</h2>
             <p className="text-lg text-[#FAF0E6] lg:text-xl">
-              Become part of our mission to revive Sicily's abandoned lands. Invest in our sustainable agrivoltaics
+              Become part of our mission to revive Sicily&apos;s abandoned lands. Invest in our sustainable agrivoltaics
               projects and help create a brighter future.
             </p>
             <div className="flex flex-col gap-4 sm:flex-row">
@@ -229,9 +229,9 @@ export function sicily() {
             </p>
             <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
               <div className="rounded-md bg-[#CEF1BD] p-6 text-[#2D677D]">
-                <h3 className="mb-2 text-xl font-bold">What is Greencanto's mission?</h3>
+                <h3 className="mb-2 text-xl font-bold">What is Greencanto&apos;s mission?</h3>
                 <p>
-                  Greencanto's mission is to revive Sicily's abandoned lands through innovative agrivoltaics projects,
+                  Greencanto&apos;s mission is to revive Sicily&apos;s abandoned lands through innovative agrivoltaics projects,
                   creating sustainable communities and combating land abandonment.
                 </p>
               </div>
@@ -243,9 +243,9 @@ export function sicily() {
                 </p>
               </div>
               <div className="rounded-md bg-[#CEF1BD] p-6 text-[#2D677D]">
-                <h3 className="mb-2 text-xl font-bold">What are the benefits of Greencanto's projects?</h3>
+                <h3 className="mb-2 text-xl font-bold">What are the benefits of Greencanto&apos;s projects?</h3>
                 <p>
-                  Greencanto's projects provide sustainable agriculture, renewable energy, and community development,
+                  Greencanto&apos;s projects provide sustainable agriculture, renewable energy, and community development,
                   revitalizing rural areas and creating new economic opportunities.
                 </p>
               </div>
